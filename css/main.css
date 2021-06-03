@@ -95,8 +95,14 @@ nav ul li {
 
 .main__pieFotoPromos {
   text-align: center;
-  font-size: 22px;
+  font-size: 45px;
   font-weight: bold; }
+
+  .main__pieFotoPromos__abajo {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold; }
+   
 
 .main__pieFotoPromos__promos {
   display: flex;
